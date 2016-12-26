@@ -5,11 +5,11 @@
  */
 /*
 Plugin Name: SoccerClub Custom Post Types
-Plugin URI: http://0effortthemes.com/
+Plugin URI: https://github.com/bluerid/cpt-creator/
 Description: Creates the necessary post types for SoccerClub theme.
 Author: Itobuz Technologies
 Version: 1.0
-Author URI: http://0effortthemes.com/
+Author URI: https://github.com/bluerid/
 */
 require_once('classes/soccerclubcptclass.php');
 
